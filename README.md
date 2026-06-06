@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadsaadirfan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsaadirfan2969@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6C63FF?style=for-the-badge)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-saadirfan.netlify.app-6C63FF?style=for-the-badge&logo=netlify&logoColor=white)](https://saadirfan.netlify.app)
 [![Client Work](https://img.shields.io/badge/Live_Client_Work-009CBD?style=for-the-badge&logo=vercel&logoColor=white)](https://rigidengg.com)
 
 </div>
